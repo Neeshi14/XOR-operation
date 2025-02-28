@@ -29,5 +29,6 @@ This document demonstrates the implementation of the XOR (exclusive OR) operatio
 
 ### Results
 
-* The model achieved an accuracy of 50.00% in both.
-* The prediction of the model for the input [0,1] is [[0.26421696]].
+* The model achieved an testing accuracy is 75% in both.
+* The training accuracy of the model is 75% in both.
+
